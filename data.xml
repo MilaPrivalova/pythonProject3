@@ -1,0 +1,38 @@
+<data>
+<person id="Smirnov">
+    <Surname>Smirnov</Surname>
+    <Name>Aleksandr</Name>
+    <Patronymic>Vladimirovich</Patronymic>
+    <Phone>565589</Phone>
+</row>
+<person id="Bogdanov">
+    <Surname>Bogdanov</Surname>
+    <Name>Daniil</Name>
+    <Patronymic>Sergeevich</Patronymic>
+    <Phone>903552</Phone>
+</row>
+<person id="Ivanov">
+    <Surname>Ivanov</Surname>
+    <Name>Ivan</Name>
+    <Patronymic>ivanovich</Patronymic>
+    <Phone>3522598</Phone>
+</row>
+<person id="Myagkov">
+    <Surname>Myagkov</Surname>
+    <Name>Igor'</Name>
+    <Patronymic>Petrovich</Patronymic>
+    <Phone>6466448</Phone>
+</row>
+<person id="Komlev">
+    <Surname>Komlev</Surname>
+    <Name>Andrej</Name>
+    <Patronymic>Dmitrievich</Patronymic>
+    <Phone><512161/Phone>
+</row>
+<person id="Demashova">
+    <Surname>Demashova</Surname>
+    <Name>Elena</Name>
+    <Patronymic>Maximovna</Patronymic>
+    <Phone>185455</Phone>
+</row>
+</data>
